@@ -1,0 +1,12 @@
+.input {
+  padding: 0.5rem;
+  outline-color: aquamarine;
+  width: 30rem;
+}
+.btn {
+  padding: 0.7rem;
+  background: #80ffd4;
+  border: none;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}

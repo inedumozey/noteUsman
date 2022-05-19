@@ -1,0 +1,21 @@
+.nav {
+  margin-bottom: 6rem;
+  min-width: 38rem;
+}
+
+.nav-ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  text-decoration: none;
+  margin-bottom: 5rem;
+}
+
+.nav-ul li {
+  text-decoration: none;
+  cursor: pointer;
+}
+.nav-ul li:hover {
+  color: blue;
+  background-color: #eee;
+}

@@ -1,0 +1,7 @@
+.app {
+  overflow: auto;
+}
+.red {
+  background-color: orangered;
+  color: White;
+}
